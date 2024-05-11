@@ -8,8 +8,8 @@ const font = localFont({
 })
 
 export const metadata: Metadata = {
-  title: "pulver",
-  description: "pulver",
+  title: "Pulver",
+  description: "Plv",
 };
 
 export default function RootLayout({
